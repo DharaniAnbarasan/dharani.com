@@ -26,8 +26,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const typedElement = document.querySelector('.typed-text');
   if (typedElement) {
     const words = [
-      "Senior Mobile Application Developer",
       "Full Stack Developer",
+      "Mobile Application Developer",
       "Flutter & Dart Specialist",
       "Laravel & REST API Architect",
       "Database Optimization Engineer"
